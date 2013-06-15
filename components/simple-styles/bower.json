@@ -1,0 +1,14 @@
+{
+  "name": "simple-styles",
+  "version": "0.0.0",
+  "gitHead": "fbaa4293db4ccaf65c231c3c12a46fb8bf7fb65a",
+  "readme": "#simple styles\n\n> a set of css styles so simple you probably don't even need them.\n\nSeriously, these are just some styles I really like that I need to get at quick and easy fairly often.\n\n\n**install using bower:**\n````\nbower install simple-styles\n````",
+  "readmeFilename": "Readme.md",
+  "_id": "simple-styles@0.0.3",
+  "description": "> a set of css styles so simple you probably don't even need them.",
+  "commit": "fbaa4293db4ccaf65c231c3c12a46fb8bf7fb65a",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superbigtree/simple-styles"
+  }
+}
