@@ -19,10 +19,3 @@ function convert(){
     }
   });
 }
-
-/*
-data: {
-  text: markdown_area.value,
-  mode: 'markdown'
-}
-*/
