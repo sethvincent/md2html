@@ -5,6 +5,7 @@
     "normalize-css": "~2.1.0",
     "html5shiv": "~3.6.2",
     "simple-styles": "latest",
-    "reqwest": "~0.8.1"
+    "reqwest": "~0.8.1",
+    "marked": "~0.2.9"
   }
 }

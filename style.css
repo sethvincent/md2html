@@ -21,7 +21,7 @@ textarea#generated-html {
   float: right;
 }
 
-button#convert {
+button.convert {
   border: 0px;
   color: #fff;
   background-color: #ddd;
@@ -30,11 +30,11 @@ button#convert {
   clear: both;
 }
 
-button#convert:hover {
+button.convert:hover {
   background-color: #ccc;
 }
 
-button#convert:active {
+button.convert:active {
   position: relative;
   top: 2px;
 }

@@ -26,13 +26,15 @@
     <textarea id="editor" autofocus="autofocus" placeholder="Your markdown."></textarea>
     <textarea id="generated-html" placeholder="Generated html shows up here."></textarea>
     <div class="clear">
-      <button id="convert" type="button">convert to html</button>
+      <button id="github-convert" type="button" class="convert">convert with github api</button>
+      <button id="marked-convert" type="button" class="convert">convert with marked.js</button>
       <p>convert markdown to html online using the github api</p>
     </div>
   </div>
 </main>
 
 <script src="./components/reqwest/reqwest.min.js"></script>
+<script src="./components/marked/lib/marked.js"></script>
 <script src="./app.js"></script>
 
 </body>
